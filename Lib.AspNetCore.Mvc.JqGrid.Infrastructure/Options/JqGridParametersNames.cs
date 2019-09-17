@@ -64,7 +64,7 @@ namespace Lib.AspNetCore.Mvc.JqGrid.Infrastructure.Options
         public string SubgridId { get; set; }
 
         /// <summary>
-        /// Gets or sets the name for pages count parametr.
+        /// Gets or sets the name for pages count parametr      sdf.
         /// </summary>
         public string PagesCount { get; set; }
 
