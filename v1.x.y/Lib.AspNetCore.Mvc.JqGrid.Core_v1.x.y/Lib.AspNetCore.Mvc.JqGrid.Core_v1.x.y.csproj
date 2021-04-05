@@ -35,7 +35,7 @@
     <ProjectReference Include="..\Lib.AspNetCore.Mvc.JqGrid.Infrastructure_v1.x.y\Lib.AspNetCore.Mvc.JqGrid.Infrastructure_v1.x.y.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Formatters.Json" Version="1.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Formatters.Json" Version="1.0.4" />
     <!--<PackageReference Include="Lib.AspNetCore.Mvc.JqGrid.Infrastructure" Version="1.4.0" />-->
   </ItemGroup>
 </Project>
